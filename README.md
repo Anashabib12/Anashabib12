@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="75" />
-  </h2><h3> I'm Anas Habib!
+  </h2><h3> I'm Muhammad Anas!
 </h3>
 <div>
  <img src="https://github.com/codewithowais/codewithowais/blob/master/coding.gif" width="60%"  loop=infinite></div>
@@ -13,7 +13,7 @@
 
 Reach out to me directly through:
 
-<a href="https://www.linkedin.com/in//" target="_blank">
+<a href="www.linkedin.com/in/muhammadanasdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
