@@ -17,32 +17,22 @@ Reach out to me directly through:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com//" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
 <a href="https://wa.me/923423004488/" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/meezaab" target="_blank">
+<a href="https://www.facebook.com/AnasDev92" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/messages/t/meezaab/" target="_blank">
+<a href="https://www.facebook.com/messages/t/AnasDev92/" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@darksurfer9735" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 
-<a href="mailto:darkxsurfer@gmail.com" target="_blank">
+<a href="anas.dev92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://medium.com/@darkxurfer" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 
