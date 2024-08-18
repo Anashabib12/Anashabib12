@@ -13,7 +13,7 @@
 
 Reach out to me directly through:
 
-<a href="www.linkedin.com/in/muhammadanasdev" target="_blank">
+<a href="https://www.linkedin.com/in/muhammadanasdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
