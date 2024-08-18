@@ -31,7 +31,7 @@ Reach out to me directly through:
 </a>
 
 
-<a href="anas.dev92@gmail.com" target="_blank">
+<a href="mailto:anas.dev92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -63,7 +63,7 @@ Here's my tech stack I'm currently used to and prefer:
 ### Status
     
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=DarkxSurfer&theme=dark&count_private=true&show_icons=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkxSurfer&layout=compact&theme=dark&langs_count=50" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anashabib12&theme=dark&count_private=true&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashabib12&layout=compact&theme=dark&langs_count=50" />
 
     
