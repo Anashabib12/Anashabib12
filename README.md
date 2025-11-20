@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" alt="Coding Gif" />
   
   <h1>Hi there, I'm Muhammad Anas! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
   
@@ -30,19 +30,13 @@
 ### 💻 Tech Stack
 
 <div align="center">
-  <h4>Languages</h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-  <br/>
-
-  <h4>Frameworks & Tools</h4>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -50,15 +44,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anashabib12&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashabib12&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anashabib12&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashabib12&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
 </div>
 
 <br/>
 
-<h3 align="center">🧩 Contributions Graph</h3>
 <div align="center">
-  <img src="https://github-readme-isometric-graph.herokuapp.com/graph?username=Anashabib12&theme=gotham&bg_color=0D1117&height=150" alt="Isometric Graph" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anashabib12&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Streak" />
+</div>
+
+---
+
+### 🧩 Contributions
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/02569B/Anashabib12" alt="Anas's Github chart" />
 </div>
 
 ---
